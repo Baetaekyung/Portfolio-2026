@@ -19,7 +19,7 @@
 <br>참조: https://github.com/Baetaekyung/Portfolio-2026/tree/main/UnityFramework/Script/Editor/AnalysisTool</br>
 
 <br></br>
-모바일 게임의 특징적인 구조인 Patch -> Title -> InGame 플로우 구현을 하였습니다. 
+모바일 게임의 주된 게임 흐름구조인 Patch -> Title -> InGame 플로우 구현을 하였습니다. 
 <br>https://github.com/Baetaekyung/Portfolio-2026/tree/main/UnityFramework/Script/InGame</br>
 
 
